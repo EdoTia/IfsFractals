@@ -1,2 +1,2 @@
 # IfsFractals
-Algorithm for representing the attractor of iterated systems of linear functions inspired by Breadth-First Search (BFS) for graphs.
+Algorithm for representing the attractor of an iterated system of affine transformations inspired by Breadth-First Search (BFS) for graphs.
